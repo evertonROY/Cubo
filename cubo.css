@@ -18,7 +18,7 @@ body {
     height: 300px;
     transform-style: preserve-3d;
     transform: rotateX(-30deg);
-    animation: animate 4s linear infinite;
+    animation: animate 5s linear infinite;
 }
 
 @keyframes animate {
@@ -81,3 +81,4 @@ body {
     0 0 400px rgba(0,255,0,0.8),
     0 0 500px rgba(0,255,0,1);
 }
+
